@@ -1,0 +1,15 @@
+Find the Largest and Smallest Elements in an Array: Write a function that returns the largest and smallest elements from an array.
+
+Reverse an Array: Write a function to reverse the elements of an array in place.
+
+Rotate an Array: Given an array, rotate it by a given number of positions to the right or left.
+
+Find the Missing Number: In an array of size n containing numbers from 1 to n+1, find the missing number.
+
+Find Duplicate Elements: Write a function to find duplicate elements in an array.
+
+Sort an Array of 0s, 1s, and 2s: Sort an array consisting only of 0s, 1s, and 2s without using a sorting algorithm like quicksort.
+
+Merge Two Sorted Arrays: Given two sorted arrays, merge them into a single sorted array.
+
+Kadane's Algorithm: Write a function to find the maximum sum subarray within a given array of integers.
